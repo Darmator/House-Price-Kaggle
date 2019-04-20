@@ -2,6 +2,7 @@
 Entry for the Hose price prediction competition from kaggle 0.12440 score
 
 It uses 7 Keras Dense neural networks with the following architechture:
+
 Input->128 relu-> 256 relu -> 256 relu -> 1 Linear
 
 and 3 sklearn classifiers:
